@@ -16,7 +16,7 @@ ax.scatter(cdf.Date.values,
 
 # Set title and labels for axes
 ax.set(xlabel="Date",
-       ylabel="Deaths (inches)")
+       ylabel="Deaths")
 
 plt.show()
 #based on state
